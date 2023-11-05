@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CustomListView">
+
+    <ImageView
+        android:id="@+id/imageIcon"
+        android:layout_width="100dp"
+        android:layout_height="150dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/projectTitleList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sfcompactrounded"
+            android:gravity="center"
+            android:text="ProjectTitle"
+            android:textAlignment="center"
+            android:textColor="#7790CC"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/projectDescriptionList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sfcompactrounded"
+            android:text="ProjectDescription"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/projectYearText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ProjectYear"
+            android:textAlignment="center" />
+    </LinearLayout>
+
+</LinearLayout>

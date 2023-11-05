@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CV UXDesign</string>
+    <string name="contact">Contactgegevens</string>
+    <string name="contact_info">E-mail: g.vat@student.avans.nl Tel nr: +31613462097</string>
+    <string name="introduction_text">Welkom! Deze CV-app is gemaakt om te laten zien aan welke projecten ik een bijdrage heb geleverd.</string>
+    <string name="overview_button">Overzicht</string>
+    <string name="introduction_header">Introductie</string>
+    <string name="project_title">Titel</string>
+    <string name="weatherstation">Internet Weerstation</string>
+    <string name="weatherstation_description">In dit project moest ik een Java programma bouwen dat data uit een SQL database ophaalde en liet zien op een GUI.</string>
+    <string name="project_year">Jaar</string>
+    <string name="avg">Automatisch Geleid Voertuig</string>
+    <string name="avg_description">In dit project had ik een Raspberry Pi die ik moest verbinden met motoren en sensoren en vervolgens code moest schrijven in Java zodat deze autonoom kon werken.</string>
+    <string name="festivalplanner_description">In dit project moest ik een applicatie bouwen die een festival kon simuleren op basis van een door de gebruiker gemaakte planning.</string>
+    <string name="back_button">Terug</string>
+    <string name="weather_station_summary">In dit project moesten we een Java-project bouwen dat moest communiceren met een SQL-database om weergegevens te krijgen. De koppeling met de database was al gegeven, we moesten code schrijven om een gegeven GUIboard te besturen om een weerstation te maken dat met drie knoppen werd bediend.</string>
+    <string name="avg_summary">In dit project kregen we een raspberry pi met een motorschild en enkele motoren. We moesten onze klant interviewen om erachter te komen wat hij wilde. We moesten de robot lijnen laten volgen, naar een afstandsbediening van een tv laten luisteren, een route via bluetooth sturen via onze eigen gemaakte java-applicatie en tegelijkertijd de afstand detecteren.</string>
+    <string name="festivalplanner_summary">In dit project moesten we een java-applicatie bouwen waar de gebruiker een planning en wat meer details over een festival kon opzetten en importeren. Vervolgens was er een simulatietabblad waarmee de gebruiker de simulatie kon starten om het festival te zien gebeuren volgens hun planning.</string>
+    <string name="resume_app">CV App</string>
+    <string name="resume_app_description">In dit project moest ik een Android applicatie bouwen om de projecten te laten zien waar ik aan gewerkt heb.</string>
+    <string name="resume_app_summary">In dit project moest ik een cv-app bouwen waarin de projecten waaraan ik werkte zichtbaar zouden zijn. De gebruiker kan alle projecten in de lijst zien en erop tikken voor meer details.</string>
+    <string name="overview_list_description">Klik op een project voor meer details</string>
+</resources>

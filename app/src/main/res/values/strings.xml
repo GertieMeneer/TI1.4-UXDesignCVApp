@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CV UXDesign</string>
+    <string name="introduction_text">Welcome! This resume app was created to showcase the projects I contributed to.</string>
+    <string name="contact_info">E-mail: g.vat@student.avans.nl Phone nr.: +31613462097</string>
+    <string name="contact">Contact details</string>
+    <string name="overview_button">Overview</string>
+    <string name="introduction_header">Introduction</string>
+    <string name="project_title">Title</string>
+    <string name="weatherstation">Internet Weatherstation</string>
+    <string name="weatherstation_description">In this project I had to build a Java program to get data from an SQL database and display it on a GUI.</string>
+    <string name="project_year">Year</string>
+    <string name="avg">Automated Guided Vehicle</string>
+    <string name="avg_description">In this project I had a Raspberry Pi which I had to connect to motors and sensors, and then write code in Java so it could operate autonomously.</string>
+    <string name="festivalplanner_description">In this project I had to build an application which was able to simulate a festival based on a user made planning.</string>
+    <string name="back_button">Back</string>
+    <string name="weather_station_summary">In this project we had to build a java project that had to communicate with an SQL database to get weather data. The connection with the database was already given, we had to implement code to control a given GUIboard to make a weatherstation that was controlled with three buttons.</string>
+    <string name="avg_summary">In this project we were given a raspberry pi with a motor shield and some motors. We had to interview our customer to discover what he wanted. We had to make the robot follow lines, listen to a tv remote, send a route via bluetooth through our own made java application while also detecting distance.</string>
+    <string name="festivalplanner_summary">In this project we had to build a java application were the user was able to setup and import a planning and some more details about a festival. Then there was a simulation tab which allowed to user to start the simulation to see the festival happening according to their planning.</string>
+    <string name="resume_app">Resume App</string>
+    <string name="resume_app_description">In this project I had to build an Android application to showscase which I projects I worked on.</string>
+    <string name="resume_app_summary">In this project I had to build a resume app in which the projects I worked on would be visible. The user is able to see all the projects in the list and able to tap on them for more details.</string>
+    <string name="festivalplanner" translatable="false">Festival Planner</string>
+    <string name="overview_list_description">Click on a project to see more details</string>
+</resources>
