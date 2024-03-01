@@ -9,4 +9,4 @@ In this resume app I put 3 projects that I worked on with some text under it.
 6.8 / 10
 
 ## Date
-Year 1 Period 4 | Jul 4, 2023 11:59pm
+Year 1 Period 4 | Jul 4, 2023
